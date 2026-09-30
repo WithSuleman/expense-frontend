@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseFlow - Modern Expense Tracker",
+  "description": "Track expenses, understand your spending, and stay in control of your finances with colorful analytics and seamless budgeting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
